@@ -19,3 +19,18 @@ A simple Python program that slices an email address into username and domain.
 **Output:**  
 Username: souprantika  
 Domain: gmail.com
+
+ ---
+
+### 🔐 Task 3: Password Generator
+
+A Python script that generates a strong random password using uppercase, lowercase, digits, and special characters.
+
+#### 🛠 Features:
+- User-defined password length
+- Includes all character types for strong security
+- Input validation for numeric entry
+
+#### 📄 Example:
+**Input:** 10  
+**Output:** =O4`pj>M
