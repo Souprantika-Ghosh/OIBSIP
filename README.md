@@ -34,3 +34,6 @@ A Python script that generates a strong random password using uppercase, lowerca
 #### 📄 Example:
 **Input:** 10  
 **Output:** =O4`pj>M
+
+### Task 4: Speech Recognition
+A simple Python program to recognise voice 
